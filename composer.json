@@ -2,7 +2,6 @@
     "name": "vkovalc/command-scheduler-magento2",
     "description": "Command Scheduler for Magento 2",
     "type": "magento2-module",
-    "version": "2.0",
     "repositories": {
         "magento-repo": {
             "type": "composer",
